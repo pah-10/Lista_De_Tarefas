@@ -1,0 +1,47 @@
+body{
+	margin: 10%;
+	padding: 0;
+	border: 0;
+	background-color: #FFE4C4;
+}
+
+#conteiner{
+	text-align: center;
+	margin: auto;
+	background-color: white;
+	border-radius: 10px;
+	width: 45%;
+	height: 45%;
+	box-shadow: 0px 0px 17px 7px rgba(149,149,149,0.96);
+	padding-bottom: 4px;
+}
+
+#conteiner img{
+	border-radius: 10px;
+	max-width: 100%;
+	overflow: hidden;
+	filter: opacity(80%);
+}
+
+p{
+	color: black;
+	margin: 5px;
+}
+
+button{
+	color: white;
+	background-color: #BB1E1E;
+	border-color: #9F1818;
+}
+#afazer{
+	text-align: left;
+}
+
+.concluido{
+	margin-left: 10px;
+	color: green;
+}
+
+.exclui{
+	color: red;
+}
