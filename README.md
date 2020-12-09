@@ -1,3 +1,5 @@
+<img src="https://github.com/pah-10/Lista_De_Tarefas/blob/main/lista.PNG" min-width="500px" max-width="500px" width="400px" align="right" alt="icon">
+
 # Lista De Tarefas
 
 Projeto criado para a realização da 2º prova de Linguagem de Programação da FATEC-RP
