@@ -10,4 +10,4 @@ Lista de tarefas com as opções:
 * Excluir a tarefa
 * Concluir a tarefa
 
-[Clique aqui](https://listadeafazeres.pah10.repl.co/) para acessar o projeto.
+[Clique aqui](https://listadeafazeres.pah10.repl.co/) para acessar o projeto hospedado no replit.
